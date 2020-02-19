@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{FE787AD5-4DBE-4E9B-977E-7754B322EC5E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Section-14 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="noted.md">
+    <Files>
+      <File FileName="noted.md" Line="49" Column="20" />
+      <File FileName="Program.cs" Line="34" Column="46" />
+      <File FileName="Entities/Contract.cs" Line="23" Column="43" />
+      <File FileName="Entities/Installment.cs" Line="19" Column="50" />
+      <File FileName="Services/IOnlinePaymentService.cs" Line="6" Column="9" />
+      <File FileName="Services/PaypalService.cs" Line="18" Column="48" />
+      <File FileName="Services/ContractService.cs" Line="20" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Section-14" expanded="True">
+            <Node name="Section-14" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="noted.md" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

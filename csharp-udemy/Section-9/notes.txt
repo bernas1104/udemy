@@ -1,0 +1,33 @@
+Enumerações
+É um tipo valor e não referência. O compilador auxilia o programador tornando impossível
+que valores que não tenham sido determinados no enumerador sejam setados.
+A declaração é semelhante à linguagem C/C++:
+
+	enum NomeDaVariável : tipo {
+		Enum1 = x;
+		Enum2 = y;
+		...
+		EnumN = n;
+	}
+
+Na diagramação UML, utiliza-se <<enum>> para definir um enumerador e, na parte dos atributos,
+definir os nomes e os valores do enumerador.
+
+
+Design (Intro)
+Existem várias categorias de objeto (tudo são objetos) para facilitar organização, flexibilidade,
+reuso, delegação, etc...
+Algumas categorias: Views, Controllers, Entities, Services, Repositories...
+
+
+Composição
+Tipo de associação onde um objeto contém outro. Relação "tem-um" ou "tem-vários". Trás algumas
+vantagens:
+	- Organização: divisão de responsabilidades;
+	- Coesão;
+	- Flexibilidade;
+	- Reuso.
+
+No UML, o símbolo que indica composição é o "diamante negro" que fica do lado da parte do "todo"
+e aponta para os itens. Coloca-se um número ou um * para indicar a forma da composição. Ainda no
+UML, relações sem utilização do "diamante negro" também são ditas composições.

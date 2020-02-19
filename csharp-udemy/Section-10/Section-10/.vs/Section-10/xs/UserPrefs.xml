@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{FF6AC32E-A43E-42B5-9B7D-4290E906F821}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Section-10/Ex2/ImportedProduct.cs">
+    <Files>
+      <File FileName="Section-10/Program.cs" Line="76" Column="72" />
+      <File FileName="Section-10/Ex2/Product.cs" Line="21" Column="82" />
+      <File FileName="Section-10/Ex2/ImportedProduct.cs" Line="20" Column="28" />
+      <File FileName="Section-10/Ex2/UsedProduct.cs" Line="9" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Section-10" expanded="True">
+            <Node name="Section-10" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Ex1" expanded="True" />
+              <Node name="Ex2" expanded="True">
+                <Node name="ImportedProduct.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Section-10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+C:\Users\berna\source\repos\bernas1104\csharp-udemy\Section-11\bin\Debug\netcoreapp3.1\Section-11.exe
+C:\Users\berna\source\repos\bernas1104\csharp-udemy\Section-11\bin\Debug\netcoreapp3.1\Section-11.deps.json
+C:\Users\berna\source\repos\bernas1104\csharp-udemy\Section-11\bin\Debug\netcoreapp3.1\Section-11.runtimeconfig.json
+C:\Users\berna\source\repos\bernas1104\csharp-udemy\Section-11\bin\Debug\netcoreapp3.1\Section-11.runtimeconfig.dev.json
+C:\Users\berna\source\repos\bernas1104\csharp-udemy\Section-11\bin\Debug\netcoreapp3.1\Section-11.dll
+C:\Users\berna\source\repos\bernas1104\csharp-udemy\Section-11\bin\Debug\netcoreapp3.1\Section-11.pdb
+C:\Users\berna\source\repos\bernas1104\csharp-udemy\Section-11\obj\Debug\netcoreapp3.1\Section-11.csprojAssemblyReference.cache
+C:\Users\berna\source\repos\bernas1104\csharp-udemy\Section-11\obj\Debug\netcoreapp3.1\Section-11.AssemblyInfoInputs.cache
+C:\Users\berna\source\repos\bernas1104\csharp-udemy\Section-11\obj\Debug\netcoreapp3.1\Section-11.AssemblyInfo.cs
+C:\Users\berna\source\repos\bernas1104\csharp-udemy\Section-11\obj\Debug\netcoreapp3.1\Section-11.dll
+C:\Users\berna\source\repos\bernas1104\csharp-udemy\Section-11\obj\Debug\netcoreapp3.1\Section-11.pdb

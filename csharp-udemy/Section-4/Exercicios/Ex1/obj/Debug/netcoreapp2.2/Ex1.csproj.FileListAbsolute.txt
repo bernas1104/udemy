@@ -1,0 +1,11 @@
+/home/bernardo/Desktop/csharp-udemy/Section-4/Exercicios/Ex1/bin/Debug/netcoreapp2.2/Ex1.deps.json
+/home/bernardo/Desktop/csharp-udemy/Section-4/Exercicios/Ex1/bin/Debug/netcoreapp2.2/Ex1.runtimeconfig.json
+/home/bernardo/Desktop/csharp-udemy/Section-4/Exercicios/Ex1/bin/Debug/netcoreapp2.2/Ex1.runtimeconfig.dev.json
+/home/bernardo/Desktop/csharp-udemy/Section-4/Exercicios/Ex1/bin/Debug/netcoreapp2.2/Ex1.dll
+/home/bernardo/Desktop/csharp-udemy/Section-4/Exercicios/Ex1/bin/Debug/netcoreapp2.2/Ex1.pdb
+/home/bernardo/Desktop/csharp-udemy/Section-4/Exercicios/Ex1/obj/Debug/netcoreapp2.2/Ex1.csprojAssemblyReference.cache
+/home/bernardo/Desktop/csharp-udemy/Section-4/Exercicios/Ex1/obj/Debug/netcoreapp2.2/Ex1.csproj.CoreCompileInputs.cache
+/home/bernardo/Desktop/csharp-udemy/Section-4/Exercicios/Ex1/obj/Debug/netcoreapp2.2/Ex1.AssemblyInfoInputs.cache
+/home/bernardo/Desktop/csharp-udemy/Section-4/Exercicios/Ex1/obj/Debug/netcoreapp2.2/Ex1.AssemblyInfo.cs
+/home/bernardo/Desktop/csharp-udemy/Section-4/Exercicios/Ex1/obj/Debug/netcoreapp2.2/Ex1.dll
+/home/bernardo/Desktop/csharp-udemy/Section-4/Exercicios/Ex1/obj/Debug/netcoreapp2.2/Ex1.pdb

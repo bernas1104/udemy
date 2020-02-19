@@ -1,0 +1,33 @@
+Modelo Conceitual (MC)
+Def.1: Modelo que descreve a estrutura das informações que o sistema vai gerenciar (Wazlawick)
+Def.2: Modelo de Domínio em nível de Análise (Sistema):
+	- Escopo do problema e não da solução;
+	- Independe de paradigma;
+	- Independe de tecnologia;
+
+Utiliza o UML para representação.
+Descreve: conceitos, atributos e associações. As "caixas" são os conceitos. Os atributos estão
+contidos no segundo retângulo interno a "caixa". As associações são definidas pelas setas entre
+as caixas.
+
+Conceitos: qualquer entidade que tenha um significado para o sistema e tenha necessidade de
+armazenamento de dados. Deve ser uma unidade coesa. A nível de NEGÓCIO pode conter entidades que
+não existir a nível de SISTEMA.
+
+Atributos: informações simples contidades em cada conceito. Devem seguir a 1FN (1a forma normal)
+ou seja, não deve ser multivalorados. Não devem ser compostos.
+
+
+Cada conceito, no diagrama UML do MC, é definido como um retângulo dividido em três seções; Na
+primeira seção, coloca-se o nome do conceito; Na segunda, coloca-se os atributos deste conceito.
+O tipo do atributo (inteiro, float...) é opcional; A terceira seção não é utilizada no MC.
+Deve conter pelo menos um atributo que o identifique, ou seja, que seja único para cada instância
+do conceito. Para isso, utiliza-se um estereótipo <<oid>>. Atributos podem ter valores iniciais e serem derivados (read only).
+
+
+-----
+
+
+Identificação de Conceitos
+Deve-se buscar as informações sobre os Conceitos utilizando os documentos produzidos pela análise
+de requisitos do sistema: Visão geral e Casos de uso.

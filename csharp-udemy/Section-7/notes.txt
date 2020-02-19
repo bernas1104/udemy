@@ -1,0 +1,39 @@
+Var
+
+Em C#, podemos declarar variáveis sem tipo explícito. Para isso, devemos apenas
+usar a palavra "var". Assim, ao declarar uma varíavel e atribuir um valor, o compilador
+é capaz de determinar o tipo "dinâmicamente".
+Embora isso seja possível, não é algo recomendado. A utilização de variáveis sem tipo
+definido pode gerar erros devidos a descuidos do programador que podem ser propagados
+pelo programa. É boa prática evitar o seu uso.
+
+Switch-Case
+Igual as linguagens C/C++, Java, Ruby...
+
+Expressão Condicional Ternária
+Estrutura opcional ao if-else para decidir um valor com base em uma condição. É escrita
+da mesma maneira como em C/C++, etc... ( condição ) ? valor_se_verdadeiro : valor_se_falso
+Serve como uma forma de resumir atribuições com base em condicionais...
+
+Funções para string
+Não há necessidade de decorar. Documentação/IDE sempre resolve...
+
+DateTime
+Objeto para representação de um instante no tempo. Armazena o número de "ticks" (100 ns)
+desde 00:00 1/1/1.
+Ao instanciar um objeto DateTime e acessar a propriedade "Now", devolve a data atual.
+Possue vários construtores e "builders" utilizando propriedades. Não há necessidade de decorar
+tipo de coisa que basta pesquisar na documentação/IDE para utilizar.
+Um método interessante é o "ParseExact", onde podemos definir o formato que a data inserida
+deve ser lida pelo programa.
+
+TimeSpan
+Objeto para representação de uma duração de tempo. Vale a mesma ideia do DateTime...
+Vários construtores, métodos, propriedades... Não vale a pena tentar decorar.
+
+Uma boa prática de programação, quando mexendo com data/hora, é armazenar estas em
+formato UTC (BD/JSON/XML) e, ao recuperar os dados, instânciar em formato local.
+DateTime possui métodos para realizar a conversão de maneira simples.
+
+Padrão ISO-8601
+Formato: yyyy-MM-ddTHH:mm:ssZ, o Z indica que a data/hora está em UTC.

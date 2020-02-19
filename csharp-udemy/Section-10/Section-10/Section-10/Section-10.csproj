@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Section_10</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Ex1\" />
+    <Folder Include="Ex2\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Ex2.cs" />
+  </ItemGroup>
+</Project>

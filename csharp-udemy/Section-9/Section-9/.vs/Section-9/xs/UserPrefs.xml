@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{CD727AEE-84A8-4C90-83A8-DF4000311C4C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ex3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ex4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex4/Program.cs">
+    <Files>
+      <File FileName="Ex4/Program.cs" Line="22" Column="34" />
+      <File FileName="Ex4/Entities/Order.cs" Line="22" Column="48" />
+      <File FileName="Ex4/Entities/Client.cs" Line="27" Column="6" />
+      <File FileName="Ex4/Entities/OrderItem.cs" Line="9" Column="38" />
+      <File FileName="Ex4/Entities/Product.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Section-9" expanded="True">
+            <Node name="Ex1" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="Enums" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Ex2" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="Enums" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Ex3" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name="Ex4" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="Enums" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ex1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Ex2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,23 @@
+Abordagem sobre o básico do uso do Git.
+
+Comandos básicos... add, commit, status e log;
+	- log: mostra todos os commits;
+
+
+Para voltar ao estado do último commit, usa-se 2 comandos:
+	- git clean -df ('d' remove untracked diretórios e arquivos, 'f' força a possível deleção de arquivos e pastas);
+	- git checkout -- . (Atualiza os arquivos para a versão do índice ou da árvore especificada);
+
+
+Remover o último commit mantendo as alterações nos arquivos
+	- git reset --soft HEAD~1
+Remover o último commit incluindo as alterações nos arquivos
+	- git reset --hard HEAD~1
+
+
+Para olhar um commit antigo, basta usar o comando "git checkout <código commit>"
+	- Não pode haver alterações pendentes no Git;
+Para voltar, "git checkout <branch>"
+
+
+

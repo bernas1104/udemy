@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{87148711-B4DC-4E07-B181-3265F779B3F8}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ex3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ex4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex4/Program.cs">
+    <Files>
+      <File FileName="Ex1/Program.cs" Line="71" Column="25" />
+      <File FileName="Ex2/Program.cs" Line="22" Column="18" />
+      <File FileName="Ex3/Program.cs" Line="18" Column="42" />
+      <File FileName="Ex4/Program.cs" Line="70" Column="90" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercices" expanded="True">
+            <Node name="Ex1" expanded="True" />
+            <Node name="Ex2" expanded="True" />
+            <Node name="Ex3" expanded="True" />
+            <Node name="Ex4" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ex1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Ex2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

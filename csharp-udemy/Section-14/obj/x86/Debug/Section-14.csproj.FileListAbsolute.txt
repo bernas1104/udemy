@@ -1,0 +1,5 @@
+/home/bernardo/Projects/csharp-udemy/Section-14/bin/Debug/Section-14.exe
+/home/bernardo/Projects/csharp-udemy/Section-14/bin/Debug/Section-14.pdb
+/home/bernardo/Projects/csharp-udemy/Section-14/obj/x86/Debug/Section-14.csprojAssemblyReference.cache
+/home/bernardo/Projects/csharp-udemy/Section-14/obj/x86/Debug/Section-14.exe
+/home/bernardo/Projects/csharp-udemy/Section-14/obj/x86/Debug/Section-14.pdb

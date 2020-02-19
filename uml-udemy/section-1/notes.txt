@@ -1,0 +1,15 @@
+Juntamente com o desenvolvimento do RUP (Rational Unified Process), foi desenvolvido o UML
+(Unified Modeling Language).
+Dentro das disciplinas de Business Modeling, Requirements e Analysis & Design, utiliza-se
+a UML para a Modelagem de Domínio.
+
+Domínio: área de negócio observada;
+Modelo de Domínio: Descrição das entidades do domínio e suas relações
+
+O Modelo de Domínio possui 4 níveis de abstração:
+	1. Conceitual (negócio): descreve as entidades do domínio (do negócio) e suas inter-relações; Não depende do sistema;
+	2. Conceitual (sistema): Descreve as entidades do domínio (do sistema) e suas inter-relações; Independe de PARADIGMA e TECNOLOGIA;
+	3. Lógico/Design: Descrever as entidades do domínio (do sistema) e suas inter-relações; Preso a um PARADIGMA (relacional, orientado a objetos...); Independe de TECNOLOGIA;
+	4. Físico: Descrever as entidades do domínio (do sistema) e suas inter-relações; Preso a um PARADIGMA (relacional, orientado a objetos...); Preso a uma TECNOLOGIA (Java, C#, PHP...);
+
+

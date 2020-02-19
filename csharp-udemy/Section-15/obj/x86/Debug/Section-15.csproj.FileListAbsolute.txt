@@ -1,0 +1,5 @@
+/home/bernardo/Projects/Section-15/bin/Debug/Section-15.exe
+/home/bernardo/Projects/Section-15/bin/Debug/Section-15.pdb
+/home/bernardo/Projects/Section-15/obj/x86/Debug/Section-15.csprojAssemblyReference.cache
+/home/bernardo/Projects/Section-15/obj/x86/Debug/Section-15.exe
+/home/bernardo/Projects/Section-15/obj/x86/Debug/Section-15.pdb
